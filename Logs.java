@@ -1,5 +1,4 @@
 /*
-* Copyright (c) 2020
 *
 * The Logs program calculates the number of logs that
 * the truck can carry of the log size the user has chosen.
